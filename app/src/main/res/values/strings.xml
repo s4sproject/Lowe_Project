@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lowe Project</string>
+    <string name="hintTxtItem">Enter an item here ...</string>
+    <string name="lblBtnAdd">Add Item</string>
+    <string name="txtEmpty">List is empty! Add an Item</string>
+    <string name="hello_world">Hello World</string>
+    <string name="lblBtnDel">Delete Selected Items</string>
+    <string name="lblBtnDone">Done</string>
+</resources>
